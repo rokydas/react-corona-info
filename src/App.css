@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.main{
+  text-align: center;
+}
+
+input{
+  padding: 8px 10px;
+  border-radius: 15px 5px;
+  border: none;
+}
+
+input:focus{
+  outline: none;
+}
+
+button{
+  border: none;
+  padding: 5px 10px;
+  margin-left: 10px;
+  background-color: cadetblue;
+  border-radius: 10px;
+  outline: none;
+}
